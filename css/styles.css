@@ -399,11 +399,11 @@ a {
 }
 
 .plan:hover {
-  transform: scale(1.05);
+  transform: scale(1.07);
 }
 
 .plan--popular:hover {
-  transform: scale(1.15);
+  transform: scale(1.17);
 }
 
 @media screen and (min-width: 1024px) {
